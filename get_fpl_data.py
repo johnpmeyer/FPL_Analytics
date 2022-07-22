@@ -65,7 +65,6 @@ dummies_pos = pd.get_dummies(dummies_pos)
 #final data
 final_data = pd.concat([joined_data, dummies_team], axis=1)
 final_data = pd.concat([final_data, dummies_pos], axis = 1)
-final_data = final_data.drop(columns = ['team_name', 'position'])
 
 final_data.to_csv("epl_optimization_data.csv")
 

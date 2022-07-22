@@ -1,0 +1,16 @@
+,first_name,second_name,web_name,total_points,points_per_game,minutes,cost,team_name,position,team_name_Arsenal,team_name_Aston Villa,team_name_Bournemouth,team_name_Brentford,team_name_Brighton,team_name_Chelsea,team_name_Crystal Palace,team_name_Everton,team_name_Fulham,team_name_Leeds,team_name_Leicester,team_name_Liverpool,team_name_Man City,team_name_Man Utd,team_name_Newcastle,team_name_Nott'm Forest,team_name_Southampton,team_name_Spurs,team_name_West Ham,team_name_Wolves,position_DEF,position_FWD,position_GKP,position_MID
+12,Bukayo,Saka,Saka,179,4.7,2978,80,Arsenal,MID,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+15,Gabriel,dos Santos Magalhães,Gabriel,146,4.2,3063,50,Arsenal,DEF,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+42,Matty,Cash,Cash,147,3.9,3377,50,Aston Villa,DEF,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+81,Ivan,Toney,Toney,139,4.2,2908,70,Brentford,FWD,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+96,Bryan,Mbeumo,Mbeumo,119,3.4,2905,60,Brentford,FWD,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+245,James,Maddison,Maddison,181,5.2,2454,80,Leicester,MID,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+293,Virgil,van Dijk,Van Dijk,183,5.4,3060,65,Liverpool,DEF,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+294,Alisson,Ramses Becker,Alisson,176,4.9,3240,55,Liverpool,GKP,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
+298,Trent,Alexander-Arnold,Alexander-Arnold,208,6.5,2853,75,Liverpool,DEF,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+322,João,Cancelo,Cancelo,201,5.6,3227,70,Man City,DEF,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0
+327,Bernardo,Veiga de Carvalho e Silva,Bernardo,155,4.4,2856,70,Man City,MID,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+431,James,Ward-Prowse,Ward-Prowse,159,4.4,3215,65,Southampton,MID,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+485,Michail,Antonio,Antonio,140,3.9,2975,75,West Ham,FWD,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0
+492,Jarrod,Bowen,Bowen,206,5.7,2987,85,West Ham,MID,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1
+506,José,Malheiro de Sá,Sá,146,3.9,3285,50,Wolves,GKP,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0
